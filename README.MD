@@ -1,4 +1,4 @@
-#Socket.io
+Socket.io
 
 **See code for socket.io initialization with express
 
@@ -11,7 +11,7 @@ io.on('connection', (socket) => {
 });
 ```
 
-##Common Actions
+Common Actions
 
 Sends to particular connected client
 `socket.emit` 
